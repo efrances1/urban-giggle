@@ -1,0 +1,47 @@
+#content {
+	
+	padding: 100px;
+	font-family: Times New Roman;
+}
+
+#headline {
+	font-size: 25.6px;
+	font-family: serif;
+}
+
+#byline {
+	font-size: 19.5px;
+	font-style: italic;
+	padding-top: 10px;
+}
+
+p {
+	text-indent: 40px;
+}
+
+.masthead-img {
+	width:  100%;
+	
+}
+
+figcaption {
+	font-size: 0.85em;
+}
+
+caption {
+	padding: 100px;
+}
+
+.image {
+	height: 650px
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+blockquote {
+	font-size: 25.6px;
+	font-style: italic;
+	color: darkred;
+}
