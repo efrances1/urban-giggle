@@ -1,0 +1,50 @@
+.navbar {
+	background-color: #e3f2fd
+	
+}
+
+.masthead-img {
+	max-height: 400px;
+	max-width: 100%;
+}
+
+.headline {
+	font-family: serif;
+	font-size: 30px;
+	padding-left: 20px;
+}
+
+.date {
+	font-size: 17px;
+	font-family: serif;
+	padding-left: 20px;
+	padding-bottom: 30px;
+}
+
+.byline{
+	font-family: serif;
+	font-size: 18px;
+	font-style: italic;
+	padding-left: 20px;
+	}
+.card-group {
+	padding: 50px;
+}
+
+p {
+	padding-left: 20px;
+	text-indent: 10px;
+	font-family: serif;
+	font-size: 15px;
+}
+
+.image {
+	max-width: 700px;
+	padding-left: 100px;
+}
+
+figcaption {
+	padding-left: 100px;
+	font-family: serif;
+	font-size: 12px;
+}
