@@ -1,0 +1,53 @@
+.headline {
+	font-size: 30px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-top: 20px;
+	font-weight: bolder;
+	font-style: italic;
+}
+
+.by {
+	font-size: 25px;
+	font-style: italic;
+	padding-top: 120px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.byline {
+	font-size: 25px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+figcaption {
+	font-size: 12px;
+}
+
+img {
+	max-width: 700px;
+}
+
+.header-img {
+	padding-left: 300px;
+}
+
+blockquote {
+	font-weight: bold;
+	font-style: italic;
+	color: darkred;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	font-family: 'Roboto Condensed', sans-serif;
+	text-align: center;
+	font-size: 23px;
+}
+
+#footer {
+	background-color: gray;
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	color: whitesmoke;
+
+}
